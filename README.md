@@ -1,20 +1,18 @@
 # Energiesystemmodellierung
 Energiesystemmodellierung: Bereitstellung, Aufbereitung und Analyse von Energiesystemdaten. Tools: Python, R, SQL. Fokus auf Datenmanagement, Visualisierung und Vorbereitung modellgestützter Analysen.
 
+Projektziel: Analyse der Auswirkungen von Wetteränderungen auf den Strommarkt.
+
+Verwendete Datenquellen: SMARD API, DWD Wetterdaten.
+
+Methoden: Ökonometrische Modellierung (Lineare Regression), Zeitreihenanalyse (ARIMA).
+
+Ergebnisse: Schlüsselbefunde und deren Implikationen.
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
