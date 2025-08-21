@@ -1,5 +1,9 @@
 # Energiesystemmodellierung
-Energiesystemmodellierung: Bereitstellung, Aufbereitung und Analyse von Energiesystemdaten. Tools: Python, R, SQL. Fokus auf Datenmanagement, Visualisierung und Vorbereitung modellgestützter Analysen.
+Energiesystemmodellierung: 
+Bereitstellung, Aufbereitung und Analyse von Energiesystemdaten. 
+
+Tools: Python, R, SQL. Fokus auf Datenmanagement, Visualisierung und Vorbereitung modellgestützter Analysen.
+
 
 Projektziel: Analyse der Auswirkungen von Wetteränderungen auf den Strommarkt.
 
